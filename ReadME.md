@@ -2,7 +2,7 @@
 
 ## Apie šį kodą
 
-Šis kodas yra MetaTrader 5 (MT5) skriptas, skirtas uždaryti visus(ir skirtingų porų) atidarytus prekybos sandorius vienu mygtuko paspaudimu. Tai patogus įrankis prekybininkams, norintiems greitai ir lengvai uždaryti visus savo esamus prekybos sandorius.
+Šis kodas yra MetaTrader 5 (MT5) skriptas, skirtas uždaryti visus( ir skirtingų porų ) atidarytus prekybos sandorius vienu mygtuko paspaudimu. Tai patogus įrankis prekybininkams, norintiems greitai ir lengvai uždaryti visus savo esamus prekybos sandorius.
 
 ## Naudojimas
 
